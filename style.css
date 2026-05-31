@@ -2,5 +2,12 @@
     background-color: aqua;
     color:brown;
     font-size: 20px;
-    
+
 }
+.name p {
+    padding: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+
